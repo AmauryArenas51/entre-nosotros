@@ -92,13 +92,13 @@ function check() {
   let correct = 0;
   let allCorrect = 4;
 
-  if (question1 == "a") {
+  if (question1 == "e") {
     correct++;
   }
-  if (question2 == "b") {
+  if (question2 == "d") {
     correct++;
   }
-  if (question3 == "c") {
+  if (question3 == "i") {
     correct++;
   }
   if (question4 == "a") {
